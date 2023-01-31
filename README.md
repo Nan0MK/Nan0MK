@@ -2,6 +2,9 @@
 
 <img src="resources/Nan0MK 2021V2 RC2 Clear.png">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nan0MK)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Nan0MK/Nan0MK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
