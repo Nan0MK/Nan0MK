@@ -1,6 +1,6 @@
 ### Hello! I'm
 
-<img src="resources/Nan0MK 2021V2 RC2 Clear.png" style="width:650px;height:450px;"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nan0MK&langs_count=5)](https://github.com/Nan0MK/github-readme-stats)
+<img src="resources/Nan0MK 2021V2 RC2 Clear.png" style="width:700px;height:450px;"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nan0MK&langs_count=9)](https://github.com/Nan0MK/github-readme-stats)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nan0MK)](https://github.com/anuraghazra/github-readme-stats)-->
 
