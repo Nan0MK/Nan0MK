@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 ### Hello! I'm
 
 <link rel="stylesheet" href="default.css">
