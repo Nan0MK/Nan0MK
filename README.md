@@ -1,6 +1,6 @@
 ### Hello! I'm
 
-<img src="resources/Nan0MK 2021V2 RC2 Clear.png" style="width:600px;height:450px;">
+<img src="resources/Nan0MK 2021V2 RC2 Clear.png" style="width:650px;height:450px;">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nan0MK)](https://github.com/anuraghazra/github-readme-stats)
 
