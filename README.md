@@ -1,5 +1,7 @@
 ### Hello! I'm
 
+![image](resources/Nan0MK 2021V2 RC2 Clear.png)
+
 <!--
 **Nan0MK/Nan0MK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
