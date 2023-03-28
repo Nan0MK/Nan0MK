@@ -1,4 +1,4 @@
-# Hello! I'm Nan0MK! <img src="resources/resources/NNan0MK 2023V1 3d.png" style="float:right;width:700px;height:450px;">
+# Hello! I'm Nan0MK! <img src="resources/resources/Nan0MK 2023V1 3d.png" style="float:right;width:700px;height:450px;">
 
 ## I program, and game, and stuff.
 
