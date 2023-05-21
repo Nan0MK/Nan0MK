@@ -4,5 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nan0MK&langs_count=9&theme=highcontrast)](https://github.com/Nan0MK/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nan0MK&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) [![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,vscode,visualstudio,py,powershell,godot&theme=dark)](https://skillicons.dev)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nan0MK&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
