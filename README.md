@@ -2,6 +2,4 @@
 
 ## I program, and game, and stuff.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nan0MK&langs_count=9&theme=highcontrast)](https://github.com/Nan0MK/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nan0MK&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nan0MK&layout=pie&langs_count=12&theme=highcontrast)](https://github.com/Nan0MK/github-readme-stats)
