@@ -1,5 +1,29 @@
-# Hello! I'm Nan0MK! <img src="resources/resources/Nan0MK 2023V1 3d.png" style="float:right;width:650px;height:400px;">
+<head>
+    <link rel="stylesheet" href="default.css">
+</head>
 
-## I program, and game, and stuff.
+<body>
+<h1>
+    <img src="./resources/NAN0MK_2026_PROF_A-border.png" style="float:left;height:100px;">
+    Hello! I'm Nan0MK!
+</h1>
+<br/><br/>
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nan0MK&layout=compact&langs_count=12&theme=highcontrast)](https://github.com/Nan0MK/github-readme-stats)
+<div class="boxb">
+    <div>
+        <p>
+        I want to make software that people enjoy and find useful.</br>
+        I'm in to game development, desktop software, and systems development.</br>
+        And I'm just starting to get into networking and cyber security.
+        </p>
+    </div>
+    <h3> I also like to make pretty things like this button --> <a href="https://www.nan0mk.net/" class="btnBlue">My Website</a> </h3>
+</div>
+</br></br>
+</body>
+
+## My tech stack
+![My Skills](https://skillicons.dev/icons?i=java,python)
+<img src="./resources/250px-D_Programming_Language_logo.svg.webp" style="width:60px">
+![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,bun,sqlite,md,windows,linux,gradle)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nan0MK&layout=compact&card_width=1000px&langs_count=4&theme=highcontrast&stats_format=bytes&hide_border=true&title_color=ffffff&show_icons=true)

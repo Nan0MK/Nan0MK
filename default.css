@@ -1,89 +1,337 @@
-boxa {
-    border-style:solid;
-    border-color:rgb(0, 0, 47);
-    border-width:5px;
-    background-color:white;
-    border-radius: 0px;
-    color:rgb(0, 0, 47);
+/* @font-face {
+    font-family: sublima;
+    src: url(../resources/sublima/Sublima-ExtraBold.otf);
+} */
 
-    font-family: "arial";
-    font-weight: bold;
-    font-size: 30px;
+body{
+    background-color: black;
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    color: white;
+    /* font-family: sublima; */
 }
 
-boxb {
-    border-style:solid;
-    border-color:rgb(206, 0, 17);
-    border-width:5px;
-    background-color:rgb(0, 0, 0);
-    border-radius: 0px;
-    color:white;
-
-    font-family: "arial";
-    font-weight: bold;
-    font-size: 30px;
+maincontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
-boxmaina {
-    border-style:solid;
-    border-color:rgb(206, 0, 17);
-    border-width:5px;
-    background-color:rgba(219, 209, 249, 0.632);
-    border-radius: 0px;
-    color:white;
-    margin: 10px 10px 10px 10px;
-    padding: 4px 4px 4px 4px;
+navBox{
+    width: 100%;
+    height: 100px;
 
-    font-family: "arial";
-    font-weight: bold;
-    font-size: 30px;
+    margin-bottom: 25px;
 
-    text-shadow: rgb(206, 0, 17) 3px 3px;
+    border-style: solid;
+    border-color: white;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
 }
 
-boxmainb {
-    border-style:solid;
-    border-color:rgb(55, 0, 255);
-    border-width:5px;
-    background-color:rgba(249, 209, 222, 0.632);
-    border-radius: 0px;
-    color:white;
-    margin: 10px 10px 10px 10px;
-    padding: 4px 4px 4px 4px;
+/* Classes */
 
-    font-family: "arial";
-    font-weight: bold;
-    font-size: 30px;
+/*nan0Button*/
+.nan0Button{
+    background-color: black;
+    color: white;
 
-    text-shadow: rgb(55, 0, 255) 3px 3px;
+    border-left-style: solid;
+    border-color: white;
+
+    font-size: larger;
+    font-style: normal;
+    font-weight: bolder;
+    text-decoration: none;
+    text-align: center;
+    align-content: center;
+
+    height: 100%;
+    width: 100px;
+}
+.nan0Button:hover{
+    background-color: transparent;
+    background-image: linear-gradient(
+        -45deg,
+        black 0%,
+        white 25%,
+        black 50%,
+        white 75%,
+        black 100%
+        );
+    background-size: 500px 500px;
+
+    color: white;
+    text-decoration: underline;
+
+    animation: hoverAnim 3s linear infinite;
+}
+@keyframes hoverAnim{
+    0%   { background-position: 0 0; }
+    100% { background-position: 500px 500px; }
+}
+.nan0Button:active{
+    background-image: none;
+    background-color: white;
+    color: rgb(255, 122, 122);
+    font-size: xx-large;
+    text-decoration: none;
 }
 
-div {
-    border-style:solid;
-    border-color:rgb(55, 0, 255);
-    border-width:5px;
-    background-color:rgba(234, 244, 255, 0.6);
-    border-radius: 20px;
-    color:rgb(0, 0, 0);
-    margin: 100px 300px 10px 300px;
-    padding: 4px 4px 4px 4px;
-    
-    font-family: "arial";
-    font-size: 25px;
+/*btnA*/
+.btna{
+    background-color: black;
+    color: white;
+
+    border-style: solid;
+    border-color: white;
+
+    font-size: larger;
+    font-style: normal;
+    font-weight: bolder;
+    text-decoration: none;
+    text-align: center;
+    align-content: center;
+
+    width: 100px;
+    height: 45px;
+    margin: 5px;
+    padding: 8px;
+
+}
+.btna:hover{
+    border-color: transparent;
+    background-color: transparent;
+    background-image: linear-gradient(
+        -45deg,
+        black 0%,
+        white 25%,
+        black 50%,
+        white 75%,
+        black 100%
+        );
+    background-size: 500px 500px;
+
+    color: white;
+    text-decoration: underline;
+
+    animation: btnaAnim 3s linear infinite;
+}
+@keyframes btnaAnim{
+    0%   { background-position: 0 0; }
+    100% { background-position: 500px 500px; }
+}
+.btna:active{
+    background-image: none;
+    background-color: white;
+    color: black;
+    font-size: xx-large;
+    text-decoration: none;
 }
 
-body {
-    background-image:url("resources/webBg1.png");
-    background-size:1920x 2050px;
-    background-repeat:repeat-y;
+/*btnDownload*/
+.btnDownload{
+    background-color: black;
+    color: white;
+
+    border-style: solid;
+    border-color: rgb(94, 255, 0);
+
+    font-size: larger;
+    font-style: normal;
+    font-weight: bolder;
+    text-decoration: none;
+    text-align: center;
+    align-content: center;
+
+    width: 100px;
+    height: 45px;
+    margin: 5px;
+    padding: 8px;
+
+}
+.btnDownload:hover{
+    border-color: transparent;
+    background-color: transparent;
+    background-image: linear-gradient(
+        -45deg,
+        rgb(30, 255, 0) 0%,
+        rgb(38, 95, 0) 25%,
+        rgb(30, 255, 0) 50%,
+        rgb(38, 95, 0) 75%,
+        rgb(30, 255, 0) 100%
+        );
+    background-size: 500px 500px;
+
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+
+    animation: btnaDlAnim 3s linear infinite;
+}
+@keyframes btnaDlAnim{
+    0%   { background-position: 0 0; }
+    100% { background-position: 500px 500px; }
+}
+.btnDownload:active{
+    background-image: none;
+    background-color: white;
+    color: black;
+    font-size: xx-large;
+    text-decoration: none;
 }
 
-p1 {
-    font-family: "arial";
-    font-weight: bold;
-    font-size: 30px;
+/*btnBlue*/
+.btnBlue{
+    background-color: black;
+    color: white;
+
+    border-style: solid;
+    border-color: rgb(0, 4, 255);
+
+    font-size: larger;
+    font-style: normal;
+    font-weight: bolder;
+    text-decoration: none;
+    text-align: center;
+    align-content: center;
+
+    width: 100px;
+    height: 45px;
+    margin: 5px;
+    padding: 8px;
+
+}
+.btnBlue:hover{
+    border-color: transparent;
+    background-color: transparent;
+    background-image: linear-gradient(
+        -45deg,
+        rgb(25, 0, 255) 0%,
+        rgb(0, 255, 255) 25%,
+        rgb(25, 0, 255) 50%,
+        rgb(0, 255, 255) 75%,
+        rgb(25, 0, 255) 100%
+        );
+    background-size: 500px 500px;
+
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+
+    animation: btnBlueAnim 3s linear infinite;
+}
+@keyframes btnBlueAnim{
+    0%   { background-position: 0 0; }
+    100% { background-position: 500px 500px; }
+}
+.btnBlue:active{
+    background-image: none;
+    background-color: white;
+    color: rgb(0, 3, 189);
+    font-size: xx-large;
+    text-decoration: none;
 }
 
-.flex-container{
-    float: left;
+.boxBlog{
+    width: 100%;
+    height: 100%;
+    color: white;
+    margin-left: 15px;
+
+    display: flex;
+    flex-direction: column;
 }
+.boxBlog div{
+    background-color: rgba(0, 0, 0, 0.719);
+
+    border-style: solid;
+    border-color: white;
+    padding: 10px;
+    margin-right: 30%;
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+.boxBlog iframe{
+    border-style: solid;
+    border-color: white;
+    padding: 10px;
+    border-width: 3px;
+}
+
+.boxOptions{
+    width: 80%;
+    border-style: dotted;
+    border-color: white;
+    margin: 15px;
+    padding: 5px;
+    margin-left: 0px;
+    margin-top: 0px;
+
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.boxDecorV{
+    width: 85%;
+    height: 100%;
+    padding: 5px;
+    margin-left: 0px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+
+    background-image: linear-gradient(
+        -45deg,
+        black 0%,
+        white 25%,
+        black 50%,
+        white 75%,
+        black 100%
+        );
+    background-size: 500px 500px;
+
+    color: white;
+    text-decoration: underline;
+
+    animation: decorAnim 3s linear infinite;
+
+}
+@keyframes decorAnim{
+    0%   { background-position: 0 0; }
+    100% { background-position: 500px 500px; }
+}
+
+.boxb{
+    width: 100%;
+    height: 100%;
+    color: white;
+    margin-left: 15px;
+
+    display: flex;
+    flex-direction: column;
+}
+.boxb div{
+    background-color: rgba(0, 0, 0, 0.719);
+
+    border-style: solid;
+    border-color: white;
+    padding: 10px;
+    margin-right: 30%;
+    margin-bottom: 15px;
+}
+.boxb iframe{
+    border-style: solid;
+    border-color: white;
+    padding: 10px;
+    border-width: 3px;
+}
+
+/* .imgFix{
+    margin-right: -2000px;
+} */
