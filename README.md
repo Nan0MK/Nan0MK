@@ -17,7 +17,7 @@
         And I'm just starting to get into networking and cyber security.
         </p>
     </div>
-    <h3> I also like to make pretty things like this button --> <a href="https://www.nan0mk.net/" class="btnBlue">My Website</a> </h3>
+    <h3> You can see cool stuff if you click this button --> <a href="https://www.nan0mk.net/" class="btnBlue">My Website</a> </h3>
 </div>
 </br></br>
 </body>

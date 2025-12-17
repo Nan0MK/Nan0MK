@@ -1,0 +1,49 @@
+<svg fill="none" viewBox="0 0 1000 600" width="1000" height="600" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+                <head>
+                    <link rel="stylesheet" href="default.css">
+                </head>
+
+                <body>
+                <h1>
+                    <img src="./resources/NAN0MK_2026_PROF_A-border.png" style="float:left;height:100px;">
+                    Hello! I'm Nan0MK!
+                </h1>
+                <br/><br/>
+
+                <div class="boxb">
+                    <div>
+                        <p style="">
+                        I want to make software that people enjoy and find useful.</br>
+                        I'm in to game development, desktop software, and systems development.</br>
+                        And I'm just starting to get into networking and cyber security.
+                        </p>
+                    </div>
+                    <h3> I also like to make pretty things like this button --> <a href="https://www.nan0mk.net/" class="btnBlue">My Website</a> </h3>
+                </div>
+                </br></br>
+                </body>
+            </div>
+    </foreignObject>
+</svg>
+
+<!-- <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+        .container {
+            display: flex;
+            width: 100%;
+            height: 300px;
+            background-color: black;
+            color: white;
+        }
+        </style>
+
+        <div class="container">
+        <h1>Hi there, my name is Nikola 👋</h1>
+        </div>
+    </div>
+    </foreignObject>
+</svg> -->
