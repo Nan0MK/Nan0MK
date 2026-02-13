@@ -26,4 +26,4 @@
 ![My Skills](https://skillicons.dev/icons?i=java,python,cs)
 <img src="./resources/250px-D_Programming_Language_logo.svg.webp" style="width:60px">
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,js,bun,sqlite,md,windows,linux,gradle)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nan0MK&layout=compact&card_width=1000px&langs_count=4&theme=highcontrast&stats_format=bytes&hide_border=true&title_color=ffffff&show_icons=true)
+![](https://github.com/nan0mk/github-stats/blob/master/generated/languages.svg)
