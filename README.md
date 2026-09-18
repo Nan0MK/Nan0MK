@@ -22,7 +22,7 @@
 </body>
 
 ## My tech stack
-![My Skills](https://skillicons.dev/icons?i=java,cs)
+![My Skills](https://skillicons.dev/icons?i=java)
 <img src="./resources/logo-slim.png" style="width:60px">
 ![My Skills](https://skillicons.dev/icons?i=cs)
 <img src="./resources/250px-D_Programming_Language_logo.svg.webp" style="width:60px">
