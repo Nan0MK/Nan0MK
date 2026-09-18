@@ -4,7 +4,6 @@
 
 <body>
 <h1>
-    <img src="./resources/NAN0MK_2026_PROF_A-border.png" style="float:left;height:100px;">
     Hello! I'm Exyulantay!
 </h1>
 <br/><br/>
