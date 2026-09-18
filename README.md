@@ -21,7 +21,7 @@
 </br></br>
 </body>
 
-## My tech stack
+## My tech **current** stack
 ![My Skills](https://skillicons.dev/icons?i=java)
 <img src="./resources/logo-slim.png" style="width:60px">
 ![My Skills](https://skillicons.dev/icons?i=cs)
