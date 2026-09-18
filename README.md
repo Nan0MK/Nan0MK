@@ -22,7 +22,9 @@
 </body>
 
 ## My tech stack
-![My Skills](https://skillicons.dev/icons?i=java,odin,cs)
+![My Skills](https://skillicons.dev/icons?i=java,cs)
+<img src="./resources/logo-slim.png" style="width:60px">
+![My Skills](https://skillicons.dev/icons?i=cs)
 <img src="./resources/250px-D_Programming_Language_logo.svg.webp" style="width:60px">
 ![My Skills](https://skillicons.dev/icons?i=css,html,js,bun,sqlite,md,windows,linux)
 ![](https://github.com/nan0mk/github-stats/blob/master/generated/languages.svg)
