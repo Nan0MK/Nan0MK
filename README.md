@@ -12,8 +12,7 @@
     <div>
         <p>
         I want to make software that people enjoy and find useful.</br>
-        I'm in to game development, desktop software, and systems development.</br>
-        And I'm just starting to get into networking and cyber security.
+        I'm in to game development, desktop software, and systems development.
         </p>
     </div>
     <h3> You can see cool stuff if you click this button --> <a href="https://www.nan0mk.net/" class="btnBlue">My Website</a> </h3>
