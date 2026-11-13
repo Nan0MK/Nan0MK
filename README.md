@@ -11,7 +11,7 @@ ___
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; gap: 12px;">
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/odin/odin-original.svg" />
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+<img height="48" src="resources/markdown.svg" />
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img height="48" src="resources/dlang-logo.svg" />
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
@@ -21,7 +21,7 @@ ___
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zed/zed-original.svg" />
-<img height="48" src="resources/grok-icon.svg" />
+<img height="48" src="resources/grok.svg" />
 <img height="48" src="resources/opencode-icon.svg" />
 <img height="48" src="resources/dotnet.svg" />
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
