@@ -15,7 +15,8 @@
         I'm in to game development, desktop software, and systems development.
         </p>
     </div>
-    <h3> You can see cool stuff if you click this button --> <a href="https://www.nan0mk.net/" class="btnBlue">My Website</a> </h3>
+    <h3> Where most of my software is now shown off --> <a href="https://www.nan0mk.net/" class="btnBlue">ExyuTek.com</a> </h3>
+    <h3> Where my blog will be eventually --> <a href="https://www.nan0mk.net/" class="btnBlue">My old personal website</a> </h3>
 </div>
 </br></br>
 </body>
